@@ -1,6 +1,6 @@
 ## TobyMike-max GitHub space
 - 👋 Hi, I’m **Osinubi Oluwatobiloba**
-- 👀 I’m interested in **Full Stack Web Development, AI, Machine Learning & App Development**.
+- 👀 I’m interested in **Full Stack Web Development & App Development**.
 - 🌱 I have knowledge in 
 ```
 JavaScript | C | C++ | HTML | CSS | React.js | Node.js | Shell | Python
