@@ -11,7 +11,7 @@
 | C++ | 2 |
 | HTML | 2 |
 | CSS | 2 |
-| React.js | 1/2 |
+| React.js | 1-1/2 |
 | Node.js | 1 |
 | Shell Scripting | 1 | 
 | Python | 1 |
