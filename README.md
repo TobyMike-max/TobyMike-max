@@ -4,6 +4,7 @@
 - I have 1-2 years programming experience.
 - 🌱 I have knowledge in 
 
+<!---
 | Language | Experience in years |
 | :------- | ----------: |
 | JavaScript | 2 |
@@ -15,6 +16,7 @@
 | Node.js | 1 |
 | Shell Scripting | 1 | 
 | Python | 1 |
+--->
 
 - ✨ I am currently Interning @ALX 
 - 💞️ I’m looking to collaborate on both small and big projects
