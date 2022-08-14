@@ -2,7 +2,8 @@
 - 👋 Hi, I’m **Osinubi Oluwatobiloba**
 - 👀 I am a final year Chemical Engineering Student, A Software Engineering Student and an Artist.
 - I have 1-2 years programming experience.
-- 🌱 I have knowledge in 
+- 🌱 I have knowledge in
+
 | Language |
 | :------- |
 | JavaScript |
