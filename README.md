@@ -1,7 +1,8 @@
+# Happy New Year Fam
 # Welcome to My GitHub Space :)
 - 👋 Hi, I’m **Osinubi Oluwatobiloba**
 - 👀 I am a final year Chemical Engineering Student, A Software Engineering Student and an Artist.
-- I have 1-2 years programming experience.
+- I have 2+ years programming experience.
 - 🌱 I have knowledge in
 
 | Language |
@@ -16,6 +17,7 @@
 | Shell Scripting | 
 | Python |
 - ✨ I am currently Interning @ALX 
+- Specialization: FullStack Engineer | JavaScript(React.js/Node.js) and Python(Flask)
 - 💞️ I’m looking to collaborate on both small and big projects
 - I'm open to job opportunities
 - 📫 How to reach me LinkedIn: Osinubi Oluwatobiloba
