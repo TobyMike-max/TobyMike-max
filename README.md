@@ -5,19 +5,14 @@
 - I have 2+ years programming experience.
 - 🌱 I have knowledge in
 
-| Language |
+| Versatile Languages |
 | :------- |
-| JavaScript |
+| JavaScript (React.js & Node.js) |
+| Python (Flask) |
 | C |
-| C++ |
-| HTML |
-| CSS |
-| React.js |
-| Node.js |
-| Shell Scripting | 
-| Python |
+| Shell Scripting |
 - ✨ I am currently Interning @ALX 
-- Specialization: FullStack Engineer | JavaScript(React.js/Node.js) and Python(Flask)
+- Specialization: FullStack Engineer | JavaScript(React.js & Node.js) with little DevOps
 - 💞️ I’m looking to collaborate on both small and big projects
 - I'm open to job opportunities
 - 📫 How to reach me LinkedIn: Osinubi Oluwatobiloba
