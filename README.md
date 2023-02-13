@@ -1,6 +1,6 @@
 # Welcome to My GitHub Space :
 - 👋 Hi, I’m **Osinubi Oluwatobiloba**
-- 👀 I am a final year Chemical Engineering Student, A Software Engineering Student and an Artist.
+- 👀 I am a Chemical Engineering major, A Software Engineering Student and an Artist.
 - I have 2+ years programming experience.
 - 🌱 I have knowledge in
 
