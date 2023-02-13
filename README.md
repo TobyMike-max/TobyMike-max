@@ -1,5 +1,4 @@
-# Happy New Year Fam
-# Welcome to My GitHub Space :)
+# Welcome to My GitHub Space :
 - 👋 Hi, I’m **Osinubi Oluwatobiloba**
 - 👀 I am a final year Chemical Engineering Student, A Software Engineering Student and an Artist.
 - I have 2+ years programming experience.
